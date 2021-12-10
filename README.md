@@ -2,7 +2,7 @@
 A simple, easy and fast virtual keyboard for web based touchscreen applications
 
 # Usage
-To use this project all you need is to download the source code, copy the following links in the header of your html document:<br/>
+To use this project all you need is to download the source code, delete the ``demo.html`` file and copy the following links in the header of your html document:<br/>
 1. CSS <br/>
 `` <link rel="stylesheet" href="your_project_css_floder/keyboard.css">``	
 2. JS <br/>
